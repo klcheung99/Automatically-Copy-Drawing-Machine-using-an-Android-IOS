@@ -1,4 +1,4 @@
-# BEng(Hons) Dissertation: Automatically Copy Drawing Machine using an Android / IOS
+# BEng(Hons) Dissertation: Automatically Copy Drawing Machine using an Android / IOS Device 
 
    The ideas of system are coming from imitating human drawing and writing. This system is different from the traditional dot matrix printer. 
 The traditional do matrix printer is using a print head to print the drawing moves back-and forth. So that, images are drawn out of a dot matrix. As result, the fonts and graphics will be blurry when the pixel and resolution of the image is low. 
